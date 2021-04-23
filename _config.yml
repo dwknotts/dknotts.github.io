@@ -1,11 +1,9 @@
 title: Derrick Knotts # your name (or website title) here
 #logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Welcome to my page! Feel free to take a look at some projects I have completed. Don't hesitate to reach out if you have any questions.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
+
+  <a href="https://www.linkedin.com/in/derrick-knotts-4a66008b/">View My LinkedIn Profile</a> 
+
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
